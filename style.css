@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(8, 214, 180);
+    
+}
+conteudo h1 {
+    
+    text-align: center;
+}
+conteudo div h2 {
+    text-align: right;
+}
+conteudo {
+    display: block;
+    margin-right: 72px;
+    margin-left: 72px;
+}
+
+conteudo div {
+    margin-top: 48px;
+    margin-bottom: 48px;
+    padding: 30px;
+    background-color: rgb(6, 163, 53);
+    box-shadow: 4px 4px 5px rgb(0, 0, 0); 
+}
+p {
+    color: rgb(0, 0, 0);
+}
+
+div {
+    background-color: rgba(30, 200, 30, 0);
+}
+
+.CorHex {
+    background-color: #fbff07 ;
+} 
